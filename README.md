@@ -1,4 +1,4 @@
-# 🌍 Phân tích Chỉ số Thực vật (NDVI) bằng Python
+# 🌍 Phan tich chi so thuc vat (NDVI) bằng Python
 
 Dự án này minh họa quy trình đọc dữ liệu ảnh vệ tinh, tính toán chỉ số NDVI (Normalized Difference Vegetation Index) và xuất kết quả trực quan hóa bằng Python.
 
